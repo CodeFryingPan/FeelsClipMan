@@ -1,0 +1,24 @@
+
+
+.App {
+  text-align: center;
+  padding: 20px;
+  font-family: 'Press Start 2P', cursive;
+  font-size: x-large;
+  color: #D1D100;
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
