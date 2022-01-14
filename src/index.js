@@ -1,8 +1,8 @@
-import React from 'react';
-import './index.css';
-import Home from './Home';
+import React from "react";
+import "./index.css";
+import Home from "./pages/Home";
 // import Game from './component/game'
-import reportWebVitals from './reportWebVitals';
+import reportWebVitals from "./reportWebVitals";
 import { render } from "react-dom";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 
