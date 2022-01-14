@@ -42,19 +42,18 @@ export const ClipCard = ({showViews, views})=>{//The showviews its better on pro
         console.log(higher)
     }
     return (
-    <div className='bg-indigo-500 border rounded-lg p-4 shadow-md flex flex-col items-center hover:scale-110 hover:bg-indigo-50 transition duration-300 '>
-             {showViews && <p>Views: {views}</p>}
+    <div className='bg-indigo-500 border rounded-lg p-8 shadow-md flex flex-col items-center hover:scale-105 hover:bg-indigo-50 transition duration-300 w-screen max-w-5xl'>
+            {showViews && <p>Views: {views}</p>}
 
-             <TwitchClip clip="AlluringAliveTurtleDoritosChip" parent={['www.localhost:3000']} />
-                {/* /div>/you have to add react-twitch my vs-code is geitchy,  */}
-                {/* sry mf it screws formattin*/}
+            {/* <TwitchClip clip="AlluringAliveTurtleDoritosChip-EMUsxIDfVu31n0P&parent=localhost" parent={['localhost']} /> */}
 
-            {/* its worth a shot, we should still have this, seems cleaner<iframe
-                src="https://clips.twitch.tv/embed?clip=AlluringAliveTurtleDoritosChip&parent=www.localhost:3000"
+            <iframe
+                src="https://clips.twitch.tv/embed?clip=AlluringAliveTurtleDoritosChip-EMUsxIDfVu31n0P8&parent=localhost"
+                parent="localhost"
                 height={480}
-                width={480}
+                width={850}
                 allowFullScreen={false}>
-            </iframe> */}
+            </iframe>
 
             {!showViews&&(<div className="flex flex-row items-center justify-center">
                 <button className='p-4 hover:scale-110 bg-indigo-700 hover:bg-indigo-600' onClick={()=>handleAction(true)}>Higher</button>
