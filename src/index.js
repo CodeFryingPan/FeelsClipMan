@@ -5,6 +5,7 @@ import Home from "./pages/Home";
 import reportWebVitals from "./reportWebVitals";
 import { render } from "react-dom";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+import Page404 from "./pages/Page404";
 
 const rootElement = document.getElementById("root");
 render(
@@ -12,8 +13,8 @@ render(
     <Routes>
       <Route path="/" element={<Home />} />
       {/* <Route path="/about" element={<About />} /> */}
-      {/* <Route path="/game" element={<Game/>} /> */}
-      <Route path="*" element={<div>404</div>} />
+      {/* <Route path="/game" element={<Game />} /> */}
+      <Route path="*" element={<Page404 />} />
     </Routes>
   </BrowserRouter>,
   rootElement
