@@ -56,3 +56,31 @@ benis
 ⣧⠄⢿⣿⣿⣿⣿⣿⣿⣿⡿⠃⢸⠿⠛⠉⣁⣠⣿⣿⣿⣿⣿⣿⠄⣼⣿⣿⣿
 ⣿⣷⣄⣉⠉⠉⢉⣉⣉⣁⣤⣾⡏⠄⣾⣿⣿⣿⣿⣿⣿⣿⣿⡟⠄⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⣈⠙⠛⠛⠟⠛⠛⢉⣁⣤⣾⣿⣿⣿⣿
+
+if jesus can walk on water, can he swim on land?
+
+MMMMMMMMMMMWX0OkkkO0XWMMMMMMMWXK000XWMMMMMMMMMMMMM
+MMMMMMMWXOdlc:;;;:::cokKXK0xolc::::coxKWMMMMMMMMMM
+MMMMMW0dc::cccccccccc::;,,,::cccccccc::oKWMMMMMMMM
+MMMMXd::ccc:;,,,,,,,,,;;,.':cc:::::::cc;:xNMMMMMMM
+MMMKc;ccc:,,;;:cccccc:;,,'..,,,,,,,,,,,,',cONMMMMM
+MM0c;ccccc:ccccccccccccccc:,,;cccclccccc::::lOWMMM
+WKc;cccccccccccccccccccccccc:;,;cccccccccccc::o0WM
+o;':cccccccccc:;;:cccc,....';;,';cc::::c;,,,;:;:kW
+:;;cccccccccc;':loxxkd,..  .ll'.',;loodd,',.;dc,dW
+ccccccccccccc:;;;;:::;;;;,,,;;,.';:cc::;;;:;:l:;OM
+cccccccccccc:;,,;;::ccccccc:::,';cccccccccccc;:xNM
+cccccccccccccc:;;,,,,,;::;'.,,;ccccccccccc::cdKWMM
+ccccccccccccccccccc:;,,,,,;:cccc:;,,,;;;;,,dXWMMMM
+ccccccccccccccccccc:,;:ccccccccccc:,;:cccc;cOWMMMM
+ccccccccccccccccccccccccccccccccccccccccccc::kWMMM
+ccccccccccc:;;;;;;;:cccccccccccccccccccccccc;:OWMM
+ccccccccc;;;;,,,,;;;;;;;;;;;;;::::::::;;;;;;;,lXMM
+cccccclc,,:c:;;;;;;;;;;,,,,,,,,,,,;,'.'''';;;ckWMM
+cccccc::;,;;;;;;;;;;;;;;;;;;;;;;;;,,,',,'.'':0MMMM
+cccccc:,,,;:::::::;;;;;;;;;;;;;;,,,;,,,,:,';kWMMMM
+::cccccc:;:cccccccccccccccc::::,.,;;;,,;,''cKMMMMM
+',,,,,;;;::cccccccccccccccccc,'.,:,;;,;,,,.;OMMMMM
+,,,,''''''',,,,,,,,,,,,,,,;:;''';;,;,;;,;,,;lXMMMM
+;;;;;,,,,,,,,,,,,,'''''',,,,'.',:ccc:c;;:,,:;dNMMM
+;;;;;;;;;;;;;;;;;;;;,,,;;;;;,',:ccllcc:::,':;lXMMM
